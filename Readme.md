@@ -1,3 +1,5 @@
+内容仅供参考，谨慎使用
+
 #### 调整了这些内容
 
 添加文件 configuration\toolchain.cmake
